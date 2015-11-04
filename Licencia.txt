@@ -1,0 +1,6 @@
+Licencia
+
+Por ahora la licencia, de existir, es libre, pues, esto es un respositorio de entrenamiento.
+
+Creación: 4 de noviembre, 2015 a las 10:40
+Última modificación: 4 de noviembre, 2015 a las 10:40

@@ -5,8 +5,8 @@ git init Web
 cd Web
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/sinhueeet/Web.git
-git push -u origin master
+git remote add remWeb https://github.com/sinhueeet/Web.git
+git push -u remweb master
 
 Actualizar remoto desde un repositorio existente
 git remote add origin https://github.com/sinhueeet/Web.git
