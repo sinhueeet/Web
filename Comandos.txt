@@ -1,0 +1,13 @@
+Comandos creación repositorio en local, y después cargar a remoto.
+
+echo # Web >> README.md
+git init Web
+cd Web
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sinhueeet/Web.git
+git push -u origin master
+
+Actualizar remoto desde un repositorio existente
+git remote add origin https://github.com/sinhueeet/Web.git
+git push -u origin master
